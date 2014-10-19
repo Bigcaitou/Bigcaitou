@@ -1,13 +1,12 @@
 # Site settings
 title: 呵呵呵
 email: thau@qq.com
-description: > 呵呵# this means to ignore newlines until "baseurl:"
-# Write an awesome description for your new site here. You can edit this
-#line in _config.yml. It will appear in your document head meta (for
-#Google search results) and in your feed.xml site description.
-baseurl: "/Bigcaitou/" # the subpath of your site, e.g. /blog/
-url: "http://hehehe.xyz" # the base hostname & protocol for your site
-github_username:Bigcaitou
+description: > # this means to ignore newlines until "baseurl:"
+  一个比59同城还神奇的网站
+baseurl: "/Bigcaitou" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: 494365623
+github_username:  Bigcaitou
 
 # Build settings
 markdown: kramdown
