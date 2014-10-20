@@ -1,12 +1,16 @@
-# Site settings
-title: 呵呵呵
+markdown: rdiscount
+permalink: /:title/
+url: http://hehehe.xyz
+name: 呵呵呵
+author: Thau
+qq: 
 email: thau@qq.com
-description: > # this means to ignore newlines until "baseurl:"
-  一个比59同城还神奇的网站
-baseurl: "/Bigcaitou" # the subpath of your site, e.g. /blog/
-url: "http://hehehe.xyz" # the base hostname & protocol for your site
-twitter_username: 494365623
-github_username:  Bigcaitou
-
-# Build settings
-markdown: kramdown
+duoshuo: Dacaitou
+beian:
+cnzz: 119959
+weibo: Dacaitou
+github: Bigcaitou
+pygments: true
+safe: true
+paginate: 20
+about: "hehehe"
